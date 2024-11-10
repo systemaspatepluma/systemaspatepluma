@@ -4,11 +4,11 @@ Hi my name is J. David Altamirano
 Software Developer
 ------------------
 
-I've been learning to code for the last 10 years, starting with Visual Basic and Sql, but a few years ago found my passion on the .NET Framework, developing several apps for the local market on town, and Management systems for the municipal government.
+I've been learning to code for the last 10 years, starting with Visual Basic and SQL, but a few years ago found my passion on the .NET Framework, developing several apps for the local market on my home town, and Management Systems for the local government.
 
 *   🌍  I'm based in Santa Barbara,Honduras.
 *   ✉️  You can contact me at [sistemasaltamirano@hotmail.com](mailto:sistemasaltamirano@hotmail.com)
-*   🚀  I'm currently working on [Systemas Patepluma](http://sistemaspatepluma.com)
+*   🚀  I'm currently working on [Sistemas Altamirano](http://sistemasaltamirano.com)
 *   🧠  I'm learning Rust and Go
 *   🤝  I'm open to collaborating on Free Open Source Software
 *   ⚡  I enjoy my free time reading and helping on translating free open source apps on the internet
